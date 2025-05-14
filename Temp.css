@@ -1,0 +1,28 @@
+body {
+  margin: 0%;
+}
+.SearchBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: brown;
+  height: 100vh;
+  padding-left: 5%;
+  background-image: url(https://images.pexels.com/photos/186980/pexels-photo-186980.jpeg?cs=srgb&dl=pexels-tahir-shaw-50609-186980.jpg&fm=jpg);
+  background-size: cover;
+}
+.inputtext {
+  width: 700px;
+  height: 50px;
+  font-size: 30px;
+  padding: 10px;
+  background-color: rgb(178, 217, 253);
+}
+.buttonsub {
+  height: 75px;
+  padding: 0 20px;
+  font-size: 30px;
+  cursor: pointer;
+  background-color: rgb(178, 217, 253);
+  color: gray;
+}
